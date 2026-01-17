@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.1
+
+- Add vite@8 to peer dependency range
+
 ## 3.0.0
 
 - Support ESLint@10 and drop support for ESLint@8
