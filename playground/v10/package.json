@@ -1,0 +1,13 @@
+{
+  "name": "playground-v10",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "rm .eslintcache && vite",
+    "dev:cjs": "rm .eslintcache && vite --config vite.config.cjs"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.0",
+    "vite": "^7.3.1"
+  }
+}
